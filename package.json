@@ -1,0 +1,22 @@
+{
+  "name": "investor",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Investor Portfolio Calculator",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "csv-parser": "^3.0.0",
+    "node-fetch": "^2.0.0",
+    "ora": "^3.4.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "rp": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Orkun AKALAN",
+  "license": "ISC"
+}
